@@ -1,0 +1,9 @@
+../Core/Src/main.c:69:6:nut_nhan	7
+../Core/Src/main.c:87:6:xuly_led_blink5Hz	2
+../Core/Src/main.c:97:6:xuly_led_blink1Hz	2
+../Core/Src/main.c:107:6:xuly_led_tat	1
+../Core/Src/main.c:113:6:xuly_led	5
+../Core/Src/main.c:135:5:main	1
+../Core/Src/main.c:183:6:SystemClock_Config	3
+../Core/Src/main.c:223:13:MX_GPIO_Init	1
+../Core/Src/main.c:262:6:Error_Handler	1

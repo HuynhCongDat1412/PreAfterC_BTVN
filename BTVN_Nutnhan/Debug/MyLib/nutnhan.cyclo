@@ -1,0 +1,8 @@
+../MyLib/nutnhan.c:13:13:xuly_led_tat	1
+../MyLib/nutnhan.c:17:13:xuly_led_blink1Hz	1
+../MyLib/nutnhan.c:21:13:xuly_led_blink5Hz	1
+../MyLib/nutnhan.c:25:13:xuly_led	1
+../MyLib/nutnhan.c:29:13:nut_nhan	1
+../MyLib/nutnhan.c:32:13:nut_nha	1
+../MyLib/nutnhan.c:40:6:xulynutnhan	7
+../MyLib/nutnhan.c:69:6:nutnhan_init	1

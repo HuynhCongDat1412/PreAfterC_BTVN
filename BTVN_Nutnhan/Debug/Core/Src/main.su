@@ -1,0 +1,9 @@
+../Core/Src/main.c:69:6:nut_nhan	16	static
+../Core/Src/main.c:87:6:xuly_led_blink5Hz	8	static
+../Core/Src/main.c:97:6:xuly_led_blink1Hz	8	static
+../Core/Src/main.c:107:6:xuly_led_tat	8	static
+../Core/Src/main.c:113:6:xuly_led	8	static
+../Core/Src/main.c:135:5:main	8	static
+../Core/Src/main.c:183:6:SystemClock_Config	72	static
+../Core/Src/main.c:223:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:262:6:Error_Handler	4	static,ignoring_inline_asm
